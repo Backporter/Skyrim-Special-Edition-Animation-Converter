@@ -4,6 +4,8 @@ This Tool can convert given Animation(s) to PS4 format
 
 Please note: this is beta and bugs are posable so please do report them
 
+Also note: this will only convert oldrim to sse not the other way around
+
 Requirements:
 
 HavokBehaviorPostProcess.exe found in the creation kit for Skyrim Special Edition
