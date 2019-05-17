@@ -1,0 +1,11 @@
+C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\bin\Debug\Skyrim Special Edition Animation Converter.exe.config
+C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\bin\Debug\Skyrim Special Edition Animation Converter.exe
+C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\bin\Debug\Skyrim Special Edition Animation Converter.pdb
+C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\obj\Debug\Skyrim Special Edition Animation Converter.csprojAssemblyReference.cache
+C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\obj\Debug\Skyrim_Special_Edition_Animation_Converter.Credits.resources
+C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\obj\Debug\Skyrim_Special_Edition_Animation_Converter.Main.resources
+C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\obj\Debug\Skyrim_Special_Edition_Animation_Converter.Properties.Resources.resources
+C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\obj\Debug\Skyrim Special Edition Animation Converter.csproj.GenerateResource.cache
+C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\obj\Debug\Skyrim Special Edition Animation Converter.csproj.CoreCompileInputs.cache
+C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\obj\Debug\Skyrim Special Edition Animation Converter.exe
+C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\obj\Debug\Skyrim Special Edition Animation Converter.pdb
