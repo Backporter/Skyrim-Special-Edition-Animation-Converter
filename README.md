@@ -1,4 +1,4 @@
-# SSE-Fallout-4-Animation-Converter
+# Skyrim-Special-Edition-Animation-Converter
 Check the changelog.MD for more info
 This Tool can convert given Animation(s) to PS4 format
 
