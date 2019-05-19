@@ -8,3 +8,4 @@ C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Sk
 C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\obj\Release\Skyrim Special Edition Animation Converter.csproj.CoreCompileInputs.cache
 C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\obj\Release\Skyrim Special Edition Animation Converter.exe
 C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\obj\Release\Skyrim Special Edition Animation Converter.pdb
+C:\Users\Logan Melott\source\repos\Skyrim Special Edition Animation Converter\Skyrim Special Edition Animation Converter\obj\Release\Skyrim Special Edition Animation Converter.csprojAssemblyReference.cache
